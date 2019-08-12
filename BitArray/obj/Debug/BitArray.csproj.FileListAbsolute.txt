@@ -1,0 +1,12 @@
+c:\users\federico.pacheco\documents\visual studio 2015\Projects\ConsoleApplication1\BitArray\bin\Debug\BitArray.exe.config
+c:\users\federico.pacheco\documents\visual studio 2015\Projects\ConsoleApplication1\BitArray\obj\Debug\BitArray.csprojResolveAssemblyReference.cache
+c:\users\federico.pacheco\documents\visual studio 2015\Projects\ConsoleApplication1\BitArray\bin\Debug\BitArray.exe
+c:\users\federico.pacheco\documents\visual studio 2015\Projects\ConsoleApplication1\BitArray\bin\Debug\BitArray.pdb
+c:\users\federico.pacheco\documents\visual studio 2015\Projects\ConsoleApplication1\BitArray\obj\Debug\BitArray.exe
+c:\users\federico.pacheco\documents\visual studio 2015\Projects\ConsoleApplication1\BitArray\obj\Debug\BitArray.pdb
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\BitArray\bin\Debug\BitArray.exe.config
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\BitArray\obj\Debug\BitArray.exe
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\BitArray\obj\Debug\BitArray.pdb
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\BitArray\bin\Debug\BitArray.exe
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\BitArray\bin\Debug\BitArray.pdb
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\BitArray\obj\Debug\BitArray.csprojResolveAssemblyReference.cache
