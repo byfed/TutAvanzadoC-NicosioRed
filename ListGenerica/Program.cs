@@ -62,6 +62,39 @@ namespace ListGenerica
                 Console.WriteLine(valor);
             Console.WriteLine("-------------");
 
+            //invertir orden de la lista
+            valores.Reverse();
+            foreach (int valor in valores)
+                Console.WriteLine(valor);
+            Console.WriteLine("-------------");
+
+
+            //Para ordenar cuando los elementos son objetos, la clase tiene que tener implementado el interfaz
+            //IComparable.
+            valores.Sort();
+            foreach (int valor in valores)
+                Console.WriteLine(valor);
+            Console.WriteLine("-------------");
+
+            //Creamos una lista con nobjetos de nuestra propia clase
+
+            List<CPunto> listaPuntos = new List<CPunto>();
+
+            listaPuntos.Add(new CPunto(5, 3));
+            listaPuntos.Add(new CPunto(6, 2));
+            listaPuntos.Add(new CPunto(7, 1));
+            listaPuntos.Add(new CPunto(8, 39));
+
+            //Para poder impirmir, se ha sobreescrito el método tostring
+            foreach (CPunto punto in listaPuntos)
+            {
+                Console.WriteLine(punto);
+            }
+
+            //Para ordenar, hay que implementar IComparable
+            //Si no, da una excepción.
+            listaPuntos.Sort();
+
 
             Console.ReadKey();
         }

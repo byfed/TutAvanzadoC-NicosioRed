@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9EE22F74-23A0-4B07-852D-2DDC44451C06}</ProjectGuid>
+    <ProjectGuid>{EC5B98DC-68B7-4458-8346-550B57D707A6}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ListGenerica</RootNamespace>
-    <AssemblyName>ListGenerica</AssemblyName>
+    <RootNamespace>ListGenerica2</RootNamespace>
+    <AssemblyName>ListGenerica2</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

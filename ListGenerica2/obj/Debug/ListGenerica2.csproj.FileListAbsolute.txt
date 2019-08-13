@@ -1,0 +1,5 @@
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\ListGenerica2\bin\Debug\ListGenerica2.exe.config
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\ListGenerica2\bin\Debug\ListGenerica2.exe
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\ListGenerica2\bin\Debug\ListGenerica2.pdb
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\ListGenerica2\obj\Debug\ListGenerica2.exe
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\ListGenerica2\obj\Debug\ListGenerica2.pdb
