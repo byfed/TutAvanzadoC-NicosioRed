@@ -1,0 +1,14 @@
+https://www.youtube.com/playlist?list=PLM-p96nOrGcbwP-Z9SYyG3LV-KYwSffWL
+01/08/19 - ArrayList1. AddRange. Recorrido con for
+01/08/19 - ArrayList2. Add. Recorrido con foreach. Necesidad de cast.
+01/08/19 - BitArray1. Constructor con bytes. Get. Set.
+02/08/19 - BitArray2. clone. Not. And. Xor
+05/08/19 - HashTable1. Add. Recorrer hashtable. key. value.
+05/08/19 - HashTable2. colocar un elemento. contains. Remove. recorrer llaves y valores.
+06/08/19 - Queue. Enqueue. Dequeue. Peek. Iteración.
+06/08/19 - SortedList. Add. Iteración. Count. Contains. ContainsKey. ContainsValue.
+07/08/19 - Stack. Push. Iteración. Pop. Peek. Count.
+07/08/19 - Colecciones Genericas. Eliminar la necesidad el casting. Conceptos generales.
+08/08/19 - ListGenerica1. Add.Contains.IndexOf. Insert. Recorrido con foreach. RemoveAt. Remove.
+12/08/19 - ListGenerica2. Reverse. Sort. Sort con clases propias. Adición explícita.Insert.
+13/08/19 - Stack y Queue Genéricos. Push.Peek.Pop. Queue. peek. Dequeue.
