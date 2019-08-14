@@ -1,0 +1,6 @@
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\SortedSetGenerico\bin\Debug\SortedSetGenerico.exe.config
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\SortedSetGenerico\obj\Debug\SortedSetGenerico.csprojResolveAssemblyReference.cache
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\SortedSetGenerico\bin\Debug\SortedSetGenerico.exe
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\SortedSetGenerico\bin\Debug\SortedSetGenerico.pdb
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\SortedSetGenerico\obj\Debug\SortedSetGenerico.exe
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\SortedSetGenerico\obj\Debug\SortedSetGenerico.pdb
