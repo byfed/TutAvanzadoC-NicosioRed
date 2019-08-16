@@ -13,4 +13,5 @@ https://www.youtube.com/playlist?list=PLM-p96nOrGcbwP-Z9SYyG3LV-KYwSffWL
 12/08/19 - ListGenerica2. Reverse. Sort. Sort con clases propias. Adición explícita.Insert.
 13/08/19 - Stack y Queue Genéricos. Push.Peek.Pop. Queue. peek. Dequeue.
 14/08/19 - SortedSet Genérico. CompareTo. Interfaz IComparable. ObservableCollection. Eventos Add y Remove.
+16/08/19 - Var. Nulleable. Dynamic. tipo?. GetType().Name. hasValue. tipo??
 

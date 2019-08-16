@@ -1,0 +1,6 @@
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\_var_Nullable\bin\Debug\_var_Nullable.exe.config
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\_var_Nullable\bin\Debug\_var_Nullable.exe
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\_var_Nullable\bin\Debug\_var_Nullable.pdb
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\_var_Nullable\obj\Debug\_var_Nullable.csprojResolveAssemblyReference.cache
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\_var_Nullable\obj\Debug\_var_Nullable.exe
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\_var_Nullable\obj\Debug\_var_Nullable.pdb

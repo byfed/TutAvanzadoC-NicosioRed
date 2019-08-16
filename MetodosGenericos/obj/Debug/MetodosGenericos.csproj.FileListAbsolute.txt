@@ -1,0 +1,6 @@
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\MetodosGenericos\bin\Debug\MetodosGenericos.exe.config
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\MetodosGenericos\bin\Debug\MetodosGenericos.exe
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\MetodosGenericos\bin\Debug\MetodosGenericos.pdb
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\MetodosGenericos\obj\Debug\MetodosGenericos.csprojResolveAssemblyReference.cache
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\MetodosGenericos\obj\Debug\MetodosGenericos.exe
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\MetodosGenericos\obj\Debug\MetodosGenericos.pdb
