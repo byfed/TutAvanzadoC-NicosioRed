@@ -1,0 +1,5 @@
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\DelegadoGenerico\bin\Debug\DelegadoGenerico.exe.config
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\DelegadoGenerico\bin\Debug\DelegadoGenerico.exe
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\DelegadoGenerico\bin\Debug\DelegadoGenerico.pdb
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\DelegadoGenerico\obj\Debug\DelegadoGenerico.exe
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\DelegadoGenerico\obj\Debug\DelegadoGenerico.pdb

@@ -1,0 +1,5 @@
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\Lambda02\bin\Debug\Lambda02.exe.config
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\Lambda02\bin\Debug\Lambda02.exe
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\Lambda02\bin\Debug\Lambda02.pdb
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\Lambda02\obj\Debug\Lambda02.exe
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\Lambda02\obj\Debug\Lambda02.pdb

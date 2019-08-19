@@ -1,0 +1,6 @@
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\Lambda03\bin\Debug\Lambda03.exe.config
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\Lambda03\obj\Debug\Lambda03.csprojResolveAssemblyReference.cache
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\Lambda03\bin\Debug\Lambda03.exe
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\Lambda03\bin\Debug\Lambda03.pdb
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\Lambda03\obj\Debug\Lambda03.exe
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\Lambda03\obj\Debug\Lambda03.pdb
