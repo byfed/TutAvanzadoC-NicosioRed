@@ -21,3 +21,10 @@ https://www.youtube.com/playlist?list=PLM-p96nOrGcbwP-Z9SYyG3LV-KYwSffWL
 19/08/19 - 20.Func y métodos anónimos. Uso con delegados.
 19/08/19 - 21.Predicados. Creación de método para el criterio. Uso con colecciones genéricas. FindAll. RemoveAll.
 19/08/19 - 22.Expresiones Lambda. Creación. Uso con bloques de código.
+20/08/19 - 23.Conversión explícita.Explicit. Type cast.
+20/08/19 - 24.Conversión implícita de tipos creados por el programador. Implicit. Tipos anóminos y limitaciones.
+20/08/19 - 25.Metodos de extensión. Extensión de clases de las que no tenemos código. Extensión en clases que implementan interfaz.
+20/08/19 - 26.Punteros. Unsafe. Configuracion del proyecto. operador *. operador &.
+20/08/19 - 27.Como saber cuando un objeto implementa una interfaz (con excepciones). Uso de as. Uso de is.
+
+

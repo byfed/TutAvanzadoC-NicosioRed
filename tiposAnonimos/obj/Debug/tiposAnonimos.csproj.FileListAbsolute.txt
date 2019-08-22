@@ -1,0 +1,5 @@
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\tiposAnonimos\bin\Debug\tiposAnonimos.exe.config
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\tiposAnonimos\bin\Debug\tiposAnonimos.exe
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\tiposAnonimos\bin\Debug\tiposAnonimos.pdb
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\tiposAnonimos\obj\Debug\tiposAnonimos.exe
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\tiposAnonimos\obj\Debug\tiposAnonimos.pdb

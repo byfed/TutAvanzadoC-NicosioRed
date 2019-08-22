@@ -1,0 +1,6 @@
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\ConversionExplicita\bin\Debug\ConversionExplicita.exe.config
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\ConversionExplicita\obj\Debug\ConversionExplicita.csprojResolveAssemblyReference.cache
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\ConversionExplicita\bin\Debug\ConversionExplicita.exe
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\ConversionExplicita\bin\Debug\ConversionExplicita.pdb
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\ConversionExplicita\obj\Debug\ConversionExplicita.exe
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\ConversionExplicita\obj\Debug\ConversionExplicita.pdb

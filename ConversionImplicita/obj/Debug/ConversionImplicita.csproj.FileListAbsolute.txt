@@ -1,0 +1,5 @@
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\ConversionImplicita\bin\Debug\ConversionImplicita.exe.config
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\ConversionImplicita\bin\Debug\ConversionImplicita.exe
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\ConversionImplicita\bin\Debug\ConversionImplicita.pdb
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\ConversionImplicita\obj\Debug\ConversionImplicita.exe
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\ConversionImplicita\obj\Debug\ConversionImplicita.pdb
