@@ -1,0 +1,6 @@
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\FinalizableDisposable\bin\Debug\FinalizableDisposable.exe.config
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\FinalizableDisposable\obj\Debug\FinalizableDisposable.csprojResolveAssemblyReference.cache
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\FinalizableDisposable\bin\Debug\FinalizableDisposable.exe
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\FinalizableDisposable\bin\Debug\FinalizableDisposable.pdb
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\FinalizableDisposable\obj\Debug\FinalizableDisposable.exe
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\FinalizableDisposable\obj\Debug\FinalizableDisposable.pdb

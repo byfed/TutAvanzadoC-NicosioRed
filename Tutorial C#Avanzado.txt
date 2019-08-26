@@ -26,5 +26,15 @@ https://www.youtube.com/playlist?list=PLM-p96nOrGcbwP-Z9SYyG3LV-KYwSffWL
 20/08/19 - 25.Metodos de extensión. Extensión de clases de las que no tenemos código. Extensión en clases que implementan interfaz.
 20/08/19 - 26.Punteros. Unsafe. Configuracion del proyecto. operador *. operador &.
 20/08/19 - 27.Como saber cuando un objeto implementa una interfaz (con excepciones). Uso de as. Uso de is.
+21/08/19 - 28.Interfaces con métodos. Arrays de interfaz. Interfacees con argumentos. Metodos que regresan un objeto que implementa una interfaz.
+22/08/19 - 29.Implementación explícita de interfaces. invocación de métodos. Jerarquía de interfaces.
+22/08/19 - 30.Introducción a excepciones. trhow, try, catch
+22/08/19 - 31.Información en las excepciones. TargetSite. Message. Source. DeclaringType. MemberType.
+22/08/19 - 32.Información propia en la Excepción. HelpLink. Data.
+23/08/19 - 33.Excepciones de aplicación. Creación y captura de excepciones propias.
+23/08/19 - 34.Excepciones de aplciacioón II. Aprovechar clase base para Message. Requisitos formales para excepciones de aplicación en .NET.
+23/08/19 - 35.Multiples excepciones. Excepciones de sistema. Lanzar múltiples excepciones. Problemas con múltiples excepciones. Finally.
+23/08/19 - 36.Ciclo de vida del objeto. Creación de la instancia. Heap Administrado. Recolección de basura. Generaciones de objetos. New/variable. CLR.
+23/08/19 - 37.GC y tipos finalizables. Tranajo con el heap administrado. crear un tipo finalizable.
 
 

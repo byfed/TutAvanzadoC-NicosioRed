@@ -1,0 +1,6 @@
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\CicloVidaObjeto\bin\Debug\CicloVidaObjeto.exe.config
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\CicloVidaObjeto\obj\Debug\CicloVidaObjeto.csprojResolveAssemblyReference.cache
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\CicloVidaObjeto\bin\Debug\CicloVidaObjeto.exe
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\CicloVidaObjeto\bin\Debug\CicloVidaObjeto.pdb
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\CicloVidaObjeto\obj\Debug\CicloVidaObjeto.exe
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\CicloVidaObjeto\obj\Debug\CicloVidaObjeto.pdb
