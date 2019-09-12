@@ -1,0 +1,5 @@
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\Aritmetica\bin\Debug\Aritmetica.dll
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\Aritmetica\bin\Debug\Aritmetica.pdb
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\Aritmetica\obj\Debug\Aritmetica.csprojResolveAssemblyReference.cache
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\Aritmetica\obj\Debug\Aritmetica.dll
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\Aritmetica\obj\Debug\Aritmetica.pdb

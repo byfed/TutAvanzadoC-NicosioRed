@@ -1,0 +1,6 @@
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\Reflection01\bin\Debug\Reflection01.exe.config
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\Reflection01\bin\Debug\Reflection01.exe
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\Reflection01\bin\Debug\Reflection01.pdb
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\Reflection01\obj\Debug\Reflection01.csprojResolveAssemblyReference.cache
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\Reflection01\obj\Debug\Reflection01.exe
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\Reflection01\obj\Debug\Reflection01.pdb

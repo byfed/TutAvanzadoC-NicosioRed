@@ -1,0 +1,6 @@
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\usarAppSettings\bin\Debug\usarAppSettings.exe.config
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\usarAppSettings\bin\Debug\usarAppSettings.exe
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\usarAppSettings\bin\Debug\usarAppSettings.pdb
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\usarAppSettings\obj\Debug\usarAppSettings.csprojResolveAssemblyReference.cache
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\usarAppSettings\obj\Debug\usarAppSettings.exe
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\usarAppSettings\obj\Debug\usarAppSettings.pdb

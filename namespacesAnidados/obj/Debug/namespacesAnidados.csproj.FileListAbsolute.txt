@@ -1,0 +1,5 @@
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\namespacesAnidados\bin\Debug\namespacesAnidados.exe.config
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\namespacesAnidados\bin\Debug\namespacesAnidados.exe
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\namespacesAnidados\bin\Debug\namespacesAnidados.pdb
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\namespacesAnidados\obj\Debug\namespacesAnidados.exe
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\namespacesAnidados\obj\Debug\namespacesAnidados.pdb

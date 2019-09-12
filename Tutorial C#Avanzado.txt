@@ -35,6 +35,14 @@ https://www.youtube.com/playlist?list=PLM-p96nOrGcbwP-Z9SYyG3LV-KYwSffWL
 23/08/19 - 34.Excepciones de aplciacioón II. Aprovechar clase base para Message. Requisitos formales para excepciones de aplicación en .NET.
 23/08/19 - 35.Multiples excepciones. Excepciones de sistema. Lanzar múltiples excepciones. Problemas con múltiples excepciones. Finally.
 23/08/19 - 36.Ciclo de vida del objeto. Creación de la instancia. Heap Administrado. Recolección de basura. Generaciones de objetos. New/variable. CLR.
-23/08/19 - 37.GC y tipos finalizables. Tranajo con el heap administrado. crear un tipo finalizable.
+23/08/19 - 37.GC y tipos finalizables. Tranajo con el heap administrado. crear un tipo finalizable. GC.collect. GC.WaitForPendingFinalizers.
+26/08/19 - 38.Objetos desechables. IDisposable. Dispose. Using.
+26/08/19 - 39.Objeto desechable y finalizable. Creación de objetos desechables y finalziables. Suprimir la invocación del destructor.
+28/08/19 - 40.Namespace. Creación. Using. Nombres totalmente calificados.
+28/08/19 - 41.Conflicto con Namespace, anidamiento. Resolución con nombre totalmente calificado. Solución on Alias. Namespaces anidados.
+10/09/19 - 42.Crear biblioteca o libreria. Importar y usar librerías.
+10/09/19 - 43.Assemblies Privados. Identidad. Probing. Configuracion.
+
+
 
 

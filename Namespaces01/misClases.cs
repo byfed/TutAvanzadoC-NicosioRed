@@ -14,12 +14,16 @@ namespace LasClases
             Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine("Clase1 LasClases");
         }
+    }
 
+    class Clase2
+    {
         public Clase2()
         {
             Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine("Clase2 LasClases");
         }
-
     }
+
+
 }
