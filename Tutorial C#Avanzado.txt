@@ -41,7 +41,11 @@ https://www.youtube.com/playlist?list=PLM-p96nOrGcbwP-Z9SYyG3LV-KYwSffWL
 28/08/19 - 40.Namespace. Creación. Using. Nombres totalmente calificados.
 28/08/19 - 41.Conflicto con Namespace, anidamiento. Resolución con nombre totalmente calificado. Solución on Alias. Namespaces anidados.
 10/09/19 - 42.Crear biblioteca o libreria. Importar y usar librerías.
-10/09/19 - 43.Assemblies Privados. Identidad. Probing. Configuracion.
+10/09/19 - 43.Assemblies Privados. Identidad. Probing. Configuracion. Organizar dlls en carpetas modificando xml configuración.
+11/09/19 - 44.Assemblies Compartidos. Strong name. Configuración. Publisher Policy Assembllies. <codeBase>. 
+11/09/19 - 45.System.Configuration. Colocar datos propios en *.config. Leer datos desde *.config. appSettings.
+11/09/19 - 46.Reflection. Obtener información de un tipo (metodos, propiedades, interfaces)
+17/09/19 - 47.Cargar assembly en tiempo de ejecución. Reflexión a ese assembly. obtener tipo. Crear instancia. Obtener métod oy propiedad. Invocar método y usar propiedad.
 
 
 

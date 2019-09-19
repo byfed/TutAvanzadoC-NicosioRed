@@ -3,3 +3,4 @@ C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\Queue
 C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\QueueGenericos\bin\Debug\QueueGenericos.pdb
 C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\QueueGenericos\obj\Debug\QueueGenericos.exe
 C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\QueueGenericos\obj\Debug\QueueGenericos.pdb
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\QueueGenericos\obj\Debug\QueueGenerico.csprojResolveAssemblyReference.cache

@@ -3,3 +3,4 @@ C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\_Dyna
 C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\_Dynamic\bin\Debug\_Dynamic.pdb
 C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\_Dynamic\obj\Debug\_Dynamic.exe
 C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\_Dynamic\obj\Debug\_Dynamic.pdb
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\_Dynamic\obj\Debug\_Dynamic.csprojResolveAssemblyReference.cache

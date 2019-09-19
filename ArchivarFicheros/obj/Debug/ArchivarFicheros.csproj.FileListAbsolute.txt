@@ -1,0 +1,6 @@
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\ArchivarFicheros\bin\Debug\ArchivarFicheros.exe.config
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\ArchivarFicheros\bin\Debug\ArchivarFicheros.exe
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\ArchivarFicheros\bin\Debug\ArchivarFicheros.pdb
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\ArchivarFicheros\obj\Debug\ArchivarFicheros.exe
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\ArchivarFicheros\obj\Debug\ArchivarFicheros.pdb
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\ArchivarFicheros\obj\Debug\ArchivarFicheros.csprojResolveAssemblyReference.cache

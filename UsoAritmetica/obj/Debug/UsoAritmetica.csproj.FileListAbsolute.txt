@@ -6,3 +6,4 @@ C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\UsoAr
 C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\UsoAritmetica\obj\Debug\UsoAritmetica.csprojResolveAssemblyReference.cache
 C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\UsoAritmetica\obj\Debug\UsoAritmetica.exe
 C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\UsoAritmetica\obj\Debug\UsoAritmetica.pdb
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\UsoAritmetica\bin\Debug\HP.SupportAssistant.dll

@@ -1,0 +1,6 @@
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\CalculaIBAN\bin\Debug\CalculaIBAN.exe.config
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\CalculaIBAN\obj\Debug\CalculaIBAN.csprojResolveAssemblyReference.cache
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\CalculaIBAN\bin\Debug\CalculaIBAN.exe
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\CalculaIBAN\bin\Debug\CalculaIBAN.pdb
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\CalculaIBAN\obj\Debug\CalculaIBAN.exe
+C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\CalculaIBAN\obj\Debug\CalculaIBAN.pdb

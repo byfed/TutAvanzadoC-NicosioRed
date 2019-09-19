@@ -19,7 +19,7 @@ namespace Aritmetica
             r =0;
         }
 
-        public double R { get { return R; } }
+        public double R { get { return r; } }
 
         public double suma()
         {
