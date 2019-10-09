@@ -9,4 +9,3 @@ C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\BitAr
 C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\BitArray\obj\Debug\BitArray.pdb
 C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\BitArray\bin\Debug\BitArray.exe
 C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\BitArray\bin\Debug\BitArray.pdb
-C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\BitArray\obj\Debug\BitArray.csprojResolveAssemblyReference.cache

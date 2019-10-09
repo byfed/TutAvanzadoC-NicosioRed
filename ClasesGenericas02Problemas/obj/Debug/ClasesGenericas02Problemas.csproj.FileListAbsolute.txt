@@ -1,5 +1,4 @@
 C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\ClasesGenericas02Problemas\bin\Debug\ClasesGenericas02Problemas.exe.config
-C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\ClasesGenericas02Problemas\obj\Debug\ClasesGenericas02Problemas.csprojResolveAssemblyReference.cache
 C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\ClasesGenericas02Problemas\bin\Debug\ClasesGenericas02Problemas.exe
 C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\ClasesGenericas02Problemas\bin\Debug\ClasesGenericas02Problemas.pdb
 C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\ClasesGenericas02Problemas\obj\Debug\ClasesGenericas02Problemas.exe

@@ -1,6 +1,5 @@
 C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\DisposableObjects\bin\Debug\DisposableObjects.exe.config
 C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\DisposableObjects\bin\Debug\DisposableObjects.exe
 C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\DisposableObjects\bin\Debug\DisposableObjects.pdb
-C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\DisposableObjects\obj\Debug\DisposableObjects.csprojResolveAssemblyReference.cache
 C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\DisposableObjects\obj\Debug\DisposableObjects.exe
 C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\DisposableObjects\obj\Debug\DisposableObjects.pdb

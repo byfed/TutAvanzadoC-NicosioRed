@@ -1,6 +1,5 @@
 C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\inerfaces03\bin\Debug\inerfaces03.exe.config
 C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\inerfaces03\bin\Debug\inerfaces03.exe
 C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\inerfaces03\bin\Debug\inerfaces03.pdb
-C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\inerfaces03\obj\Debug\interfaces03.csprojResolveAssemblyReference.cache
 C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\inerfaces03\obj\Debug\inerfaces03.exe
 C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\inerfaces03\obj\Debug\inerfaces03.pdb

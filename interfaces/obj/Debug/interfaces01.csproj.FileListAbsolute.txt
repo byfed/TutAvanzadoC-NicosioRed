@@ -1,6 +1,5 @@
 C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\interfaces\bin\Debug\interfaces.exe.config
 C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\interfaces\bin\Debug\interfaces.exe
 C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\interfaces\bin\Debug\interfaces.pdb
-C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\interfaces\obj\Debug\interfaces01.csprojResolveAssemblyReference.cache
 C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\interfaces\obj\Debug\interfaces.exe
 C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\interfaces\obj\Debug\interfaces.pdb

@@ -3,4 +3,3 @@ C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\Metod
 C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\MetodosAnonimos\bin\Debug\MetodosAnonimos.pdb
 C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\MetodosAnonimos\obj\Debug\MetodosAnonimos.exe
 C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\MetodosAnonimos\obj\Debug\MetodosAnonimos.pdb
-C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\MetodosAnonimos\obj\Debug\MetodosAnonimos.csprojResolveAssemblyReference.cache

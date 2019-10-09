@@ -1,6 +1,5 @@
 C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\Lambda01\bin\Debug\Lambda01.exe.config
 C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\Lambda01\bin\Debug\Lambda01.exe
 C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\Lambda01\bin\Debug\Lambda01.pdb
-C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\Lambda01\obj\Debug\Lambda01.csprojResolveAssemblyReference.cache
 C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\Lambda01\obj\Debug\Lambda01.exe
 C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\Lambda01\obj\Debug\Lambda01.pdb

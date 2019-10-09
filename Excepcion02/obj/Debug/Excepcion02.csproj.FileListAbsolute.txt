@@ -1,5 +1,4 @@
 C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\Excepcion02\bin\Debug\Excepcion02.exe.config
-C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\Excepcion02\obj\Debug\Excepcion02.csprojResolveAssemblyReference.cache
 C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\Excepcion02\bin\Debug\Excepcion02.exe
 C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\Excepcion02\bin\Debug\Excepcion02.pdb
 C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\Excepcion02\obj\Debug\Excepcion02.exe

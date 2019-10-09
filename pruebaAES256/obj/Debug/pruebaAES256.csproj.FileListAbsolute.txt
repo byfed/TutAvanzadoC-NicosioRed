@@ -1,6 +1,5 @@
 C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\pruebaAES256\bin\Debug\pruebaAES256.exe.config
 C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\pruebaAES256\bin\Debug\pruebaAES256.exe
 C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\pruebaAES256\bin\Debug\pruebaAES256.pdb
-C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\pruebaAES256\obj\Debug\pruebaAES256.csprojResolveAssemblyReference.cache
 C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\pruebaAES256\obj\Debug\pruebaAES256.exe
 C:\Users\Federico.Pacheco\Desktop\Tutorial C# Avanzado (NicosioRed)\codigo\pruebaAES256\obj\Debug\pruebaAES256.pdb

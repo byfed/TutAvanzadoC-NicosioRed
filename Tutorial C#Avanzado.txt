@@ -1,52 +1,59 @@
 https://www.youtube.com/playlist?list=PLM-p96nOrGcbwP-Z9SYyG3LV-KYwSffWL
-01/08/19 - 01.ArrayList1. AddRange. Recorrido con for
-01/08/19 - 02.ArrayList2. Add. Recorrido con foreach. Necesidad de cast.
-01/08/19 - 03.BitArray1. Constructor con bytes. Get. Set.
-02/08/19 - 04.BitArray2. clone. Not. And. Xor
-05/08/19 - 05.HashTable1. Add. Recorrer hashtable. key. value.
-05/08/19 - 06.HashTable2. colocar un elemento. contains. Remove. recorrer llaves y valores.
-06/08/19 - 07.Queue. Enqueue. Dequeue. Peek. Iteración.
-06/08/19 - 08.SortedList. Add. Iteración. Count. Contains. ContainsKey. ContainsValue.
-07/08/19 - 09.Stack. Push. Iteración. Pop. Peek. Count.
-07/08/19 - 10.Colecciones Genericas. Eliminar la necesidad el casting. Conceptos generales.
-08/08/19 - 11.ListGenerica1. Add.Contains.IndexOf. Insert. Recorrido con foreach. RemoveAt. Remove.
-12/08/19 - 12.ListGenerica2. Reverse. Sort. Sort con clases propias. Adición explícita.Insert.
-13/08/19 - 13.Stack y Queue Genéricos. Push.Peek.Pop. Queue. peek. Dequeue.
-14/08/19 - 14.SortedSet Genérico. CompareTo. Interfaz IComparable. ObservableCollection. Eventos Add y Remove.
-16/08/19 - 15.Var. Nulleable. Dynamic. tipo?. GetType().Name. hasValue. tipo??. Dynamic
-16/08/19 - 16.Metodos genéricos. Paso por referencia (ref)
-16/08/19 - 17.Clases Genericas. Atributos genéricos. Constructor. Default. typeof.
-19/08/19 - 18.Problemas con clases Genéricas. Solución con dynamic.
-19/08/19 - 19.Delegado genérico. Action.
-19/08/19 - 20.Func y métodos anónimos. Uso con delegados.
-19/08/19 - 21.Predicados. Creación de método para el criterio. Uso con colecciones genéricas. FindAll. RemoveAll.
-19/08/19 - 22.Expresiones Lambda. Creación. Uso con bloques de código.
-20/08/19 - 23.Conversión explícita.Explicit. Type cast.
-20/08/19 - 24.Conversión implícita de tipos creados por el programador. Implicit. Tipos anóminos y limitaciones.
-20/08/19 - 25.Metodos de extensión. Extensión de clases de las que no tenemos código. Extensión en clases que implementan interfaz.
-20/08/19 - 26.Punteros. Unsafe. Configuracion del proyecto. operador *. operador &.
-20/08/19 - 27.Como saber cuando un objeto implementa una interfaz (con excepciones). Uso de as. Uso de is.
-21/08/19 - 28.Interfaces con métodos. Arrays de interfaz. Interfacees con argumentos. Metodos que regresan un objeto que implementa una interfaz.
-22/08/19 - 29.Implementación explícita de interfaces. invocación de métodos. Jerarquía de interfaces.
-22/08/19 - 30.Introducción a excepciones. trhow, try, catch
-22/08/19 - 31.Información en las excepciones. TargetSite. Message. Source. DeclaringType. MemberType.
-22/08/19 - 32.Información propia en la Excepción. HelpLink. Data.
-23/08/19 - 33.Excepciones de aplicación. Creación y captura de excepciones propias.
-23/08/19 - 34.Excepciones de aplciacioón II. Aprovechar clase base para Message. Requisitos formales para excepciones de aplicación en .NET.
-23/08/19 - 35.Multiples excepciones. Excepciones de sistema. Lanzar múltiples excepciones. Problemas con múltiples excepciones. Finally.
-23/08/19 - 36.Ciclo de vida del objeto. Creación de la instancia. Heap Administrado. Recolección de basura. Generaciones de objetos. New/variable. CLR.
-23/08/19 - 37.GC y tipos finalizables. Tranajo con el heap administrado. crear un tipo finalizable. GC.collect. GC.WaitForPendingFinalizers.
-26/08/19 - 38.Objetos desechables. IDisposable. Dispose. Using.
-26/08/19 - 39.Objeto desechable y finalizable. Creación de objetos desechables y finalziables. Suprimir la invocación del destructor.
-28/08/19 - 40.Namespace. Creación. Using. Nombres totalmente calificados.
-28/08/19 - 41.Conflicto con Namespace, anidamiento. Resolución con nombre totalmente calificado. Solución on Alias. Namespaces anidados.
-10/09/19 - 42.Crear biblioteca o libreria. Importar y usar librerías.
-10/09/19 - 43.Assemblies Privados. Identidad. Probing. Configuracion. Organizar dlls en carpetas modificando xml configuración.
-11/09/19 - 44.Assemblies Compartidos. Strong name. Configuración. Publisher Policy Assembllies. <codeBase>. 
-11/09/19 - 45.System.Configuration. Colocar datos propios en *.config. Leer datos desde *.config. appSettings.
-11/09/19 - 46.Reflection. Obtener información de un tipo (metodos, propiedades, interfaces)
-17/09/19 - 47.Cargar assembly en tiempo de ejecución. Reflexión a ese assembly. obtener tipo. Crear instancia. Obtener métod oy propiedad. Invocar método y usar propiedad.
-
-
-
-
+01/08/19 - 01. ArrayList1. AddRange. Recorrido con for
+01/08/19 - 02. ArrayList2. Add. Recorrido con foreach. Necesidad de cast.
+01/08/19 - 03. BitArray1. Constructor con bytes. Get. Set.
+02/08/19 - 04. BitArray2. clone. Not. And. Xor
+05/08/19 - 05. HashTable1. Add. Recorrer hashtable. key. value.
+05/08/19 - 06. HashTable2. colocar un elemento. contains. Remove. recorrer llaves y valores.
+06/08/19 - 07. Queue. Enqueue. Dequeue. Peek. Iteración.
+06/08/19 - 08. SortedList. Add. Iteración. Count. Contains. ContainsKey. ContainsValue.
+07/08/19 - 09. Stack. Push. Iteración. Pop. Peek. Count.
+07/08/19 - 10. Colecciones Genericas. Eliminar la necesidad el casting. Conceptos generales.
+08/08/19 - 11. ListGenerica1. Add.Contains.IndexOf. Insert. Recorrido con foreach. RemoveAt. Remove.
+12/08/19 - 12. ListGenerica2. Reverse. Sort. Sort con clases propias. Adición explícita.Insert.
+13/08/19 - 13. Stack y Queue Genéricos. Push.Peek.Pop. Queue. peek. Dequeue.
+14/08/19 - 14. SortedSet Genérico. CompareTo. Interfaz IComparable. ObservableCollection. Eventos Add y Remove.
+16/08/19 - 15. Var. Nulleable. Dynamic. tipo?. GetType().Name. hasValue. tipo??. Dynamic
+16/08/19 - 16. Metodos genéricos. Paso por referencia (ref)
+16/08/19 - 17. Clases Genericas. Atributos genéricos. Constructor. Default. typeof.
+19/08/19 - 18. Problemas con clases Genéricas. Solución con dynamic.
+19/08/19 - 19. Delegado genérico. Action.
+19/08/19 - 20. Func y métodos anónimos. Uso con delegados.
+19/08/19 - 21. Predicados. Creación de método para el criterio. Uso con colecciones genéricas. FindAll. RemoveAll.
+19/08/19 - 22. Expresiones Lambda. Creación. Uso con bloques de código.
+20/08/19 - 23. Conversión explícita.Explicit. Type cast.
+20/08/19 - 24. Conversión implícita de tipos creados por el programador. Implicit. Tipos anóminos y limitaciones.
+20/08/19 - 25. Metodos de extensión. Extensión de clases de las que no tenemos código. Extensión en clases que implementan interfaz.
+20/08/19 - 26. Punteros. Unsafe. Configuracion del proyecto. operador *. operador &.
+20/08/19 - 27. Como saber cuando un objeto implementa una interfaz (con excepciones). Uso de as. Uso de is.
+21/08/19 - 28. Interfaces con métodos. Arrays de interfaz. Interfacees con argumentos. Metodos que regresan un objeto que implementa una interfaz.
+22/08/19 - 29. Implementación explícita de interfaces. invocación de métodos. Jerarquía de interfaces.
+22/08/19 - 30. Introducción a excepciones. trhow, try, catch
+22/08/19 - 31. Información en las excepciones. TargetSite. Message. Source. DeclaringType. MemberType.
+22/08/19 - 32. Información propia en la Excepción. HelpLink. Data.
+23/08/19 - 33. Excepciones de aplicación. Creación y captura de excepciones propias.
+23/08/19 - 34. Excepciones de aplciacioón II. Aprovechar clase base para Message. Requisitos formales para excepciones de aplicación en .NET.
+23/08/19 - 35. Multiples excepciones. Excepciones de sistema. Lanzar múltiples excepciones. Problemas con múltiples excepciones. Finally.
+23/08/19 - 36. Ciclo de vida del objeto. Creación de la instancia. Heap Administrado. Recolección de basura. Generaciones de objetos. New/variable. CLR.
+23/08/19 - 37. GC y tipos finalizables. Trabajo con el heap administrado. crear un tipo finalizable. GC.collect. GC.WaitForPendingFinalizers.
+26/08/19 - 38. Objetos desechables. IDisposable. Dispose. Using.
+26/08/19 - 39. Objeto desechable y finalizable. Creación de objetos desechables y finalziables. Suprimir la invocación del destructor.
+28/08/19 - 40. Namespace. Creación. Using. Nombres totalmente calificados.
+28/08/19 - 41. Conflicto con Namespace, anidamiento. Resolución con nombre totalmente calificado. Solución on Alias. Namespaces anidados.
+10/09/19 - 42. Crear biblioteca o libreria. Importar y usar librerías.
+10/09/19 - 43. Assemblies Privados. Identidad. Probing. Configuracion. Organizar dlls en carpetas modificando xml configuración.
+11/09/19 - 44. Assemblies Compartidos. Strong name. Configuración. Publisher Policy Assembllies. <codeBase>. 
+11/09/19 - 45. System.Configuration. Colocar datos propios en *.config. Leer datos desde *.config. appSettings.
+11/09/19 - 46. Reflection. Obtener información de un tipo (metodos, propiedades, interfaces)
+17/09/19 - 47. Cargar assembly en tiempo de ejecución. Reflexión a ese assembly. obtener tipo. Crear instancia. Obtener métod oy propiedad. Invocar método y usar propiedad.
+18/09/19 - 48. Atributos. Creación de una clase para atributos. uso del atributo (sealed)
+24/09/19 - 49. Atributos en bibliotecas.
+25/09/19 - 50. Atributos con late binding. Obtención dinámica de los atributos.
+25/09/19 - 51. Aplicacion Extendible I. Plug-in.
+02/10/19 - 52. Aplicación Extendible II, Plug-in.
+03/10/19 - 53. Riesgos al usar dynamic. Forma correcta de usar Dynamic. Crear una clase que haga uso de dynamic.
+07/10/19 - 54. Reflexión con Dynamic. Comparación con la reflexión tradicional. Uso de dynamic para el late binding en la reflexión.
+09/10/19 - 55. AppDomain. Proceso. Hilo. Lista de procesos. System.Diagnostic.
+09/10/19 - 56. Procesos, hilos y módulos. Obtener un proceso. Listar sus hilos. Listar sus módulos.
+09/10/19 - 57. Procesos y AppDomain. Iniciar y Finalizar un proceso. Obtener el appDomain. Listar los assemblies de ese AppDomain.
+//09/10/19 - 58. Control de AppDomain. Añadir un AppDomain propio. Cargar assembly en 
